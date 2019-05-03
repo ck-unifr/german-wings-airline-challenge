@@ -28,6 +28,7 @@ The notebook covers the following topics:
 - #### Feature engineering
     - tfidf
     - count features
+    - dimensionality reduction using truncated SVD
     - word embedding
         - glove
     
